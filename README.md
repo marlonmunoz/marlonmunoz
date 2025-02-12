@@ -8,7 +8,7 @@ Coding is a lifestyle, and I follow the code!!!
 
 * 🌍  I'm based in New York City
 * ✉️  You can contact me at [marlon@marlonshade.com](mailto:marlon@marlonshade.com)
-* 🧠  I'm learning TypeScript and enforcing my skills
+* 🧠  I'm learning TypeScript and enforcing my other skills
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I was born to make mistakes, not to fake perfection.
 
