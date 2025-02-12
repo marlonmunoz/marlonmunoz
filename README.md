@@ -1,14 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Marlon Munoz
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Marlon
 ====================================================================================================================================
 
 Software Engineer
 -----------------
 
-I am a Software Engineer who loves to code
+Coding is a lifestyle, and I follow the code!!! 
 
 * 🌍  I'm based in New York City
 * ✉️  You can contact me at [marlon@marlonshade.com](mailto:marlon@marlonshade.com)
-* 🧠  I'm learning TypeScript
+* 🧠  I'm learning TypeScript and enforcing my skills
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I was born to make mistakes, not to fake perfection.
 
