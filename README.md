@@ -39,8 +39,7 @@ I keep a student mentality at all times.
 
 ### Deployed Projects
 
-* 🚀  Play my JavaScript game [Retro Game: FOX RUNNER](http://marlonmunoz.github.io/Retro_Fox_Runner-_p5/)
-* 🛠️  [![LinkedIn](https://img.shields.io/badge/PLAY-37a779?style=for-the-badge)](http://marlonmunoz.github.io/Retro_Fox_Runner-_p5/) <a href="https://github.com/marlonmunoz/Retro_Fox_Runner-_p5"> <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repository"></a> <strong>FOX-RUNNER:</strong>2D Retro Game
+* 🎮  [![LinkedIn](https://img.shields.io/badge/PLAY-37a779?style=for-the-badge)](http://marlonmunoz.github.io/Retro_Fox_Runner-_p5/) <a href="https://github.com/marlonmunoz/Retro_Fox_Runner-_p5"> <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repository"></a> <strong>FOX-RUNNER:</strong>2D Retro Game
 
 
 ### Projects I'm currenttly working on
