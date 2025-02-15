@@ -43,10 +43,9 @@ I keep a student mentality at all times.
 
 ### Projects I'm currenttly working on
 
-* 🛠️  Budget Tracker [mobile friendly]: <a href="https://github.com/marlonmunoz/x-pense-app"> <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repository"></a>
-* 🛠️  Toys for Child Development: <a href="https://github.com/marlonmunoz/IRYNK-App"> <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repository"></a>
-* 🛠️  Budget Tracker App (mobile compatible) ====>>>> [X-PENSE](https://github.com/marlonmunoz/x-pense-app) 
-* 🛠️  Toys For Child Development App ==========>>>> [IRYNK-App](https://github.com/marlonmunoz/IRYNK-App)
+* 🛠️  <a href="https://github.com/marlonmunoz/x-pense-app"> <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repository"></a> <strong>X-PENSE:</strong> Budget Tracker (mobile friendly)
+* 🛠️  <a href="https://github.com/marlonmunoz/IRYNK-App"> <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repository"></a> <strong>IRYNK-App:</strong>Toys for Child Development
+
 
 
 ### Badges
