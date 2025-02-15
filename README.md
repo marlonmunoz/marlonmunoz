@@ -40,6 +40,9 @@ I keep a student mentality at all times.
 ### Deployed Projects
 
 * 🎮  [![LinkedIn](https://img.shields.io/badge/PLAY-37a779?style=for-the-badge)](http://marlonmunoz.github.io/Retro_Fox_Runner-_p5/) <a href="https://github.com/marlonmunoz/Retro_Fox_Runner-_p5"> <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repository"></a> <strong>FOX-RUNNER:</strong>2D Retro Game
+1. <sup>Click in the screen to star the game</sup>
+2. <sup><strong>P</strong> will pause and unpause the game</sup>
+3. <sup><strong>I</strong> will display in-game instructions</sup>
 
 
 ### Projects I'm currenttly working on
