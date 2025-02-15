@@ -27,4 +27,10 @@ I keep a student mentality at all times.
 
 ### Deployed Projects
 
-* 🚀  Play my JavaScript game (Not Mobile Friendly) [Retro Game: FOX RUNNER](http://marlonmunoz.github.io/Retro_Fox_Runner-_p5/)
+* 🚀  Play my JavaScript game [Retro Game: FOX RUNNER](http://marlonmunoz.github.io/Retro_Fox_Runner-_p5/)
+
+### Projects I'm currenttly working on
+
+* 🛠️  Budget Tracker App (mobile compatible) ====>>>> [X-PENSE](https://github.com/marlonmunoz/x-pense-app)
+* 🛠️  Toys For Child Development App ==========>>>> [IRYNK-App](https://github.com/marlonmunoz/IRYNK-App)
+
