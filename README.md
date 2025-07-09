@@ -45,6 +45,14 @@ I keep a student mentality at all times.
 3. <sup><strong>I</strong> will display in-game instructions</sup>
 
 
+* 🧮  [![Visit](https://img.shields.io/badge/OPEN-37a779?style=for-the-badge)](https://marlonmunoz.github.io/calculator_project/) <a href="https://github.com/marlonmunoz/calculator_project"> <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repository"></a> <strong>CALCULATOR:</strong> Simple Vite + React App
+
+1. <sup>This is a modern web calculator built with Vite and React</sup>  
+2. <sup>Fully deployed on GitHub Pages</sup>  
+3. <sup>Quick and responsive for basic arithmetic operations</sup>
+
+
+
 ### Projects I'm currenttly working on
 
 * 🛠️  <a href="https://github.com/marlonmunoz/x-pense-app"> <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repository"></a> <strong>X-PENSE:</strong> Budget Tracker (mobile friendly)
