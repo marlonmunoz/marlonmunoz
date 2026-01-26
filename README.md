@@ -20,6 +20,7 @@ I keep a student mentality at all times.
   
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="36" height="36" alt="TensorFlow" /></a>
+<a href="https://www.ibm.com/topics/machine-learning" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png" width="36" height="36" alt="Machine Learning" /></a>
 <a href="https://www.deeplearning.ai/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" width="36" height="36" alt="Deep Learning" /></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
