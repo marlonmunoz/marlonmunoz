@@ -9,7 +9,7 @@ I keep a student mentality at all times.
 
 * 🌍  I'm based in New York City
 * ✉️  You can contact me at [marlon@marlonshade.com](mailto:marlon@marlonshade.com)
-* 🧠  I'm learning TypeScript and enforcing my other skills
+* 🧠  Currently learning AI Engineer 
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I was born to make mistakes, not to fake perfection.
 
