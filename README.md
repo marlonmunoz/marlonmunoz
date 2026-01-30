@@ -10,7 +10,7 @@ Let's collab
 * ✉️  You can contact me at [marlon@marlonshade.com](mailto:marlon@marlonshade.com)
 * 🧠  Currently learning AI Engineer 
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I was born to make mistakes, not to fake perfection.
+
 
 ### Skills
 
