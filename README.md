@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI Engineer - Software Engineer
 -----------------
 
-Coding is a lifestyle, and I follow the code!!!
-I keep a student mentality at all times.
+Let's collab
 
 * 🌍  I'm based in New York City
 * ✉️  You can contact me at [marlon@marlonshade.com](mailto:marlon@marlonshade.com)
