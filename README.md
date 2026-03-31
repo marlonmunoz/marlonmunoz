@@ -65,9 +65,10 @@ Let's collab
 
 
 ### Projects I'm currenttly working on
+  
+* 🛠️  <a href="https://github.com/marlonmunoz/propintel-ai"> <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repository"></a> <strong>PropIntel AI:</strong> AI-powered property valuation and investment analysis
 
-* 🛠️  <a href="https://github.com/marlonmunoz/IRYNK-App"> <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repository"></a> <strong>IRYNK-App:</strong>Toys for Child Development
-
+* 🛠️  <a href="https://github.com/marlonmunoz/IRYNK-App"> <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repository"></a> <strong>IRYNK-App:</strong> Toys for Child Development
 
 
 ### Badges
