@@ -71,9 +71,4 @@ Let's collab
 * 🛠️  <a href="https://github.com/marlonmunoz/IRYNK-App"> <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repository"></a> <strong>IRYNK-App:</strong> Toys for Child Development
 
 
-### Badges
 
-<b>Top Repositories</b>
-
-<div width="100%" align="left"><a href="https://github.com/marlonmunoz/x-pense-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=marlonmunoz&repo=x-pense-app&title_color=ec4899&text_color=facc15&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/marlonmunoz/IRYNK-App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=marlonmunoz&repo=IRYNK-App&title_color=ec4899&text_color=facc15&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
-<div width="100%" align="center"><a href="https://github.com/marlonmunoz/Retro_Fox_Runner-_p5" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=marlonmunoz&repo=Retro_Fox_Runner-_p5&title_color=ec4899&text_color=facc15&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
