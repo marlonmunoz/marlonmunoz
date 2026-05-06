@@ -8,10 +8,9 @@ Let's collab
 
 * 🌍  I'm based in New York City
 * ✉️  You can contact me at [marlon@marlonshade.com](mailto:marlon@marlonshade.com)
-* 🧠  Currently learning AI Engineer 
 * 🤝  I'm open to collaborating on Projects
 
-
+---
 ### Skills
 
 ![AI/ML](https://img.shields.io/badge/AI%2FML-412991?style=flat&logo=openai&logoColor=white) 
@@ -39,6 +38,7 @@ Let's collab
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat&logo=apple&logoColor=white)
 
+---
 ### Socials
 
 <p align="left"> <a href="https://www.dev.to/marlonmunoz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/marlonmunoz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/marlonrmunoz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
@@ -76,10 +76,10 @@ Let's collab
 - Quick and responsive for basic arithmetic operations
 
 
-
+---
 ### Projects I'm currenttly working on
   
 * 🛠️  <a href="https://github.com/marlonmunoz/IRYNK-App"> <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repository"></a> <strong>IRYNK-App:</strong> Toys for Child Development
-
+---
 
 
