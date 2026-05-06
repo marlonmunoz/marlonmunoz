@@ -44,31 +44,41 @@ Let's collab
 <p align="left"> <a href="https://www.dev.to/marlonmunoz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/marlonmunoz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/marlonrmunoz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Deployed Projects
-* 💸  [![Visit](https://img.shields.io/badge/OPEN-37a779?style=for-the-badge)](https://marlonmunoz.github.io/x-pense-app) <a href="https://github.com/marlonmunoz/x-pense-app"> <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repository"></a> <strong>X-PENSE:</strong> Ai Powered Budget Tracker (mobile friendly)
 
-1. <sup>Ai-Power Financial Tool </sup>
-2. <sup>Track daily expenses with a clean and intuitive UI</sup>
-3. <sup>Responsive design — mobile and desktop ready</sup>
-4. <sup>Built with Vite + React, deployed via GitHub Pages </sup>
+### 🚀 [![Visit](https://img.shields.io/badge/OPEN-37a779?style=for-the-badge)](https://www.propintel-ai.com/) <a href="https://github.com/propintelai/propintel-ai"> <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repository"></a> <strong>PropIntel AI:</strong> End-to-end AI platform for property valuation and investment analysis
 
-* 🎮  [![LinkedIn](https://img.shields.io/badge/PLAY-37a779?style=for-the-badge)](http://marlonmunoz.github.io/Retro_Fox_Runner-_p5/) <a href="https://github.com/marlonmunoz/Retro_Fox_Runner-_p5"> <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repository"></a> <strong>FOX-RUNNER:</strong>2D Retro Game
-1. <sup>Click in the screen to star the game</sup>
-2. <sup><strong>P</strong> will pause and unpause the game</sup>
-3. <sup><strong>I</strong> will display in-game instructions</sup>
+- End-to-end AI platform for real estate investment analysis across NYC boroughs
+- Built scalable backend using FastAPI, SQLAlchemy, and PostgreSQL (Supabase)
+- Developed ML pipeline with XGBoost models, achieving strong predictive performance (R² up to ~0.74 on subtype models)
+- Engineered features from real-world datasets (PLUTO + NYC Rolling Sales) including property age, log-transformed features, and geospatial data
+- Designed production-style API (/analyze-property-v2) delivering valuation, ROI estimates, investment scoring, and risk insights
+- Integrated LLM-powered explanations to generate human-readable investment insights and decision support
+- Full-stack system with React + Vite frontend and CI/CD via GitHub Actions
+
+### 💸  [![Visit](https://img.shields.io/badge/OPEN-37a779?style=for-the-badge)](https://marlonmunoz.github.io/x-pense-app) <a href="https://github.com/marlonmunoz/x-pense-app"> <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repository"></a> <strong>X-PENSE:</strong> Ai Powered Budget Tracker (mobile friendly)
+
+- Ai-Power Financial Tool 
+- Track daily expenses with a clean and intuitive UI
+- Responsive design — mobile and desktop ready
+- Built with Vite + React, deployed via GitHub Pages 
+
+### 🎮  [![LinkedIn](https://img.shields.io/badge/PLAY-37a779?style=for-the-badge)](http://marlonmunoz.github.io/Retro_Fox_Runner-_p5/) <a href="https://github.com/marlonmunoz/Retro_Fox_Runner-_p5"> <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repository"></a> <strong>FOX-RUNNER:</strong>2D Retro Game
+
+- Click in the screen to star the game
+- <strong>P</strong> will pause and unpause the game
+- <strong>I</strong> will display in-game instructions
 
 
-* 🧮  [![Visit](https://img.shields.io/badge/OPEN-37a779?style=for-the-badge)](https://marlonmunoz.github.io/calculator_project/) <a href="https://github.com/marlonmunoz/calculator_project"> <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repository"></a> <strong>CALCULATOR:</strong> Simple Vite + React App
+### 🧮  [![Visit](https://img.shields.io/badge/OPEN-37a779?style=for-the-badge)](https://marlonmunoz.github.io/calculator_project/) <a href="https://github.com/marlonmunoz/calculator_project"> <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repository"></a> <strong>CALCULATOR:</strong> Simple Vite + React App
 
-1. <sup>This is a modern web calculator built with Vite and React</sup>  
-2. <sup>Fully deployed on GitHub Pages</sup>  
-3. <sup>Quick and responsive for basic arithmetic operations</sup>
+- This is a modern web calculator built with Vite and React
+- Fully deployed on GitHub Pages
+- Quick and responsive for basic arithmetic operations
 
 
 
 ### Projects I'm currenttly working on
   
-* 🛠️  <a href="https://github.com/marlonmunoz/propintel-ai"> <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repository"></a> <strong>PropIntel AI:</strong> AI-powered property valuation and investment analysis
-
 * 🛠️  <a href="https://github.com/marlonmunoz/IRYNK-App"> <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repository"></a> <strong>IRYNK-App:</strong> Toys for Child Development
 
 
