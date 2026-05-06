@@ -55,25 +55,26 @@ Let's collab
 - Integrated LLM-powered explanations to generate human-readable investment insights and decision support
 - Full-stack system with React + Vite frontend and CI/CD via GitHub Actions
 
-### 💸  [![Visit](https://img.shields.io/badge/OPEN-37a779?style=for-the-badge)](https://marlonmunoz.github.io/x-pense-app) <a href="https://github.com/marlonmunoz/x-pense-app"> <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repository"></a> <strong>X-PENSE:</strong> Ai Powered Budget Tracker (mobile friendly)
+### 💸  [![Visit](https://img.shields.io/badge/OPEN-37a779?style=for-the-badge)](https://marlonmunoz.github.io/x-pense-app) <a href="https://github.com/marlonmunoz/x-pense-app"> <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repository"></a> <strong>X-PENSE:</strong> AI-Enhanced Budget Tracking App
 
-- Ai-Power Financial Tool 
-- Track daily expenses with a clean and intuitive UI
-- Responsive design — mobile and desktop ready
-- Built with Vite + React, deployed via GitHub Pages 
+- AI-assisted expense tracking with intelligent categorization concepts
+- Built responsive UI for real-time expense logging (mobile + desktop optimized)
+- Component-based architecture using React + Vite
+- Deployed via GitHub Pages with optimized static delivery
 
 ### 🎮  [![LinkedIn](https://img.shields.io/badge/PLAY-37a779?style=for-the-badge)](http://marlonmunoz.github.io/Retro_Fox_Runner-_p5/) <a href="https://github.com/marlonmunoz/Retro_Fox_Runner-_p5"> <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repository"></a> <strong>FOX-RUNNER:</strong>2D Retro Game
 
-- Click in the screen to star the game
-- <strong>P</strong> will pause and unpause the game
-- <strong>I</strong> will display in-game instructions
+- Built an interactive 2D game using p5.js and JavaScript
+- Implemented game loop, collision detection, and state controls
+- Keyboard controls: P (pause), I (instructions), click to start
+- Demonstrates understanding of event-driven programming and animation logic
 
 
 ### 🧮  [![Visit](https://img.shields.io/badge/OPEN-37a779?style=for-the-badge)](https://marlonmunoz.github.io/calculator_project/) <a href="https://github.com/marlonmunoz/calculator_project"> <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repository"></a> <strong>CALCULATOR:</strong> Simple Vite + React App
 
-- This is a modern web calculator built with Vite and React
-- Fully deployed on GitHub Pages
-- Quick and responsive for basic arithmetic operations
+- Built a responsive calculator using React + Vite
+- Implemented arithmetic logic and component-based UI design
+- Optimized for fast interaction and clean user experience
 
 
 ---
