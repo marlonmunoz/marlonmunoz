@@ -55,7 +55,7 @@ Let's collab
 - Integrated LLM-powered explanations to generate human-readable investment insights and decision support
 - Full-stack system with React + Vite frontend and CI/CD via GitHub Actions
 
-### 💸  [![Visit](https://img.shields.io/badge/OPEN-37a779?style=for-the-badge)](https://marlonmunoz.github.io/x-pense-app) <a href="https://github.com/marlonmunoz/x-pense-app"> <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repository"></a> <strong>X-PENSE:</strong> AI-Enhanced Budget Tracking App
+### 💸  [![Visit](https://img.shields.io/badge/OPEN-37a779?style=for-the-badge)](https://x-penseapp.com) <a href="https://github.com/marlonmunoz/x-pense-app"> <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repository"></a> <strong>X-PENSE:</strong> AI-Enhanced Budget Tracking App
 
 - AI-assisted expense tracking with intelligent categorization concepts
 - Built responsive UI for real-time expense logging (mobile + desktop optimized)
